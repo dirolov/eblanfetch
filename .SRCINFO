@@ -1,0 +1,10 @@
+pkgbase = eblanfetch
+	pkgdesc = Stoopid ahh Python fetch
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/dirolov/eblanfetch
+	arch = any
+	license = MIT
+	depends = python
+
+pkgname = eblanfetch
